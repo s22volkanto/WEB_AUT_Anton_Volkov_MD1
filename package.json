@@ -1,0 +1,11 @@
+{
+  "name": "web_aut_anton_volkov_md1",
+  "version": "1.0.0",
+  "description": "MD#1 task for selectable grid automation",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
